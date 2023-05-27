@@ -1,2 +1,2 @@
-# Heart Disease Prediction
-Predict if a patient has a heart disease based on their vitals - [Link](https://github.com/dev-kudli/heart-disease-prediction/blob/main/heart_disease_prediction_SudarshanKudli.ipynb) to the Notebook
+# Heart Disease Prediction - Predict a patient's heart condition based on their vitals
+The aim of the [Notebook](https://github.com/dev-kudli/heart-disease-prediction/blob/main/heart_disease_prediction_SudarshanKudli.ipynb) is to check the quality of the data and determine the important features to predict if a patient is suffering from a heart disease or not. The notebook has used statistical methods like p-value, t-statistics and visualization techniques like histogram, Q-Q plot, scatter plot and box-plots using various Python libraries like matplotlib, seaborn, etc to answer the below questions about the dataset. 
